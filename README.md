@@ -8,11 +8,11 @@ Welcome to the Snake Game implemented in Java. This classic arcade game challeng
 3. Navigate to the Project Directory
 4. Run the file 'App.java' to play and enjoy the Snake Game.
 ## Controls
-- Up Arrow Key: Move the snake up
-- Down Arrow Key: Move the snake down
-- Left Arrow Key: Move the snake left
-- Right Arrow Key: Move the snake right
-- Enter Key: Start the Game or Play Again after the Game is Over
+- **Up Arrow Key:** `Move the snake up`
+- **Down Arrow Key:** `Move the snake down`
+- **Left Arrow Key:** `Move the snake left`
+- **Right Arrow Key:** `Move the snake right`
+- **Enter Key:** `Start the Game or Play Again after the Game is Over`
 ## Folder Structure
 
 The workspace contains two folders by default, where:
