@@ -4,7 +4,7 @@ Welcome to the Snake Game implemented in Java. This classic arcade game challeng
 1. Ensure you have Java installed on your machine.
 2. Clone this repository to your local machine.
  
-    ``` git clone https://github.com/GDGouravDey/Snake-Game.git ```
+    ` git clone https://github.com/GDGouravDey/Snake-Game.git `
 3. Navigate to the Project Directory
 4. Run the file 'App.java' to play and enjoy the Snake Game.
 ## Controls
@@ -21,7 +21,3 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
